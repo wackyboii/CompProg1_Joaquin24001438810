@@ -2,8 +2,8 @@
 using namespace std;
 
 int main() {
-  for (int i = 1; i <= 10; i = i + 2) {
-    cout << i << "\n";
+  for (int x = 1; x <= 10; x = x + 2) {
+    cout << x << "\n";
   }
   return 0;
 }
